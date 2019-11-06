@@ -19,8 +19,11 @@ div.row{
  div.col-1-4{width: 25%}
  div.col-3-4{width: 75%}
  div.col-1-5{width: 20%}
-
- div{
+ div.col-2-5{width: 40%}
+ div.col-3-5{width: 60%}
+ div.col-4-5{width: 80%}
+ 
+ /*div{
     outline-width: 1px;
     outline-style: solid;
     outline-color: black;
