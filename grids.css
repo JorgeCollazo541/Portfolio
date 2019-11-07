@@ -24,8 +24,8 @@ div.row{
  div.col-4-5{width: 80%}
  
  div{
-    outline-width: 1px;
-    outline-style: solid;
-    outline-color: black;
-    outline: 1px solid black;
+   outline-width: 5px;
+   outline-style: solid;
+   outline-color: white;
+   outline: 2px solid white;
  }
