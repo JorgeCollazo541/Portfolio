@@ -22,6 +22,11 @@ body{
 
 /*About Me*/
 
+#strengths, #weakness, #hobbies{
+    font-size: 3em;
+    vertical-align: center;
+}
+
 #strengths ul li, #weakness ul li, #hobbies ul li{
     list-style-type: none;
 }
