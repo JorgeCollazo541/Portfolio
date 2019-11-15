@@ -15,7 +15,7 @@ body{
     font-family: 'Rajdhani', sans-serif;
 }
 div#main{
-    font-size: 4em;
+    font-size: 5em;
 }
 /*Home*/
 
@@ -124,3 +124,7 @@ div#a_v{
 }
 
 /*Contact*/
+
+div#contacts{
+    
+}
