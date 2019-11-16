@@ -116,15 +116,47 @@ div#css{
 
 /*Previous Work*/
 
+img#web{
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+}
+html#prework{
+    height: 100%;
+}
 div#pokepage{
-
+    font-size: 1.3em;
 }
 div#a_v{
-
+    font-size: 1.3em;
 }
 
 /*Contact*/
 
+html#contact{
+    height: 100%;
+}
+div#email a:link, div#email a:visited{
+    color: black
+}
+div#email a:hover, div#email a:active{
+    color: white;
+}
+div#email a{
+    text-decoration: none;
+}
 div#contacts{
-    
+    font-size: 2em;
+    border: double white 3px;
+    border-radius: 50px;
+    box-shadow: inset 10px 10px 15px rgba(211, 210, 210, 0.568);
+    background: radial-gradient(rgb(1, 90, 168),
+    rgb(51, 134, 206),
+    rgb(99, 145, 185));
+}
+#none{
+    white-space: no-wrap;
 }
