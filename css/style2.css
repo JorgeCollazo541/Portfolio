@@ -1,0 +1,20 @@
+html{
+    background: url("../Images/bubble.png") no-repeat;
+    background-attachment: fixed;
+}
+/*Navigation*/
+div#nav{
+    text-align: center;
+    vertical-align: center;
+}
+nav{
+    width: 100px;
+    height: 100px;
+    border: solid 2px white;
+    border-radius: 60px;
+    background: radial-gradient(
+    rgb(51, 134, 206),
+    rgb(81, 149, 209),
+    rgb(98, 156, 206),
+    rgb(172, 214, 252))100% no-repeat;
+}
