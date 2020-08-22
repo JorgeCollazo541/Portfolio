@@ -1,0 +1,95 @@
+html{
+    background: url("../Images/bubble.png") no-repeat;
+    background-attachment: fixed;
+}
+
+/*Navigation*/
+
+div#nav{
+    text-align: center;
+    vertical-align: center;
+}
+nav{
+    width: 50px;
+    height: 100px;
+    text-align: center;
+    padding-left: 35px;
+}
+img.nav:hover{
+   animation: float 1.5s infinite ease-in;
+
+}
+
+/*logo*/
+
+div#logo{
+    text-align: center;
+    padding-top:125px;
+}
+
+/*section one-About me*/
+
+div#section1{
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
+div#title1{
+    text-align: center;
+    font-size: 2em;
+    color: black;
+    padding-bottom: 50px;
+}
+img#me{
+    border: double 5px white;
+    border-radius: 35px;
+    transform: rotate(-15deg);
+}
+
+
+/*section two-What I Do*/
+div#section2{
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
+div#title2{
+    text-align: center;
+    font-size: 2em;
+    color: black;
+}
+
+
+/*section three-My Work Ethic*/
+
+div#section3{
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
+div#title3{
+    text-align: center;
+    font-size: 2em;
+    color: black;
+}
+
+
+/*section four-Previous Work*/
+
+div#section4{
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
+div#title4{
+    text-align: center;
+    font-size: 2em;
+    color: black;
+}
+
+/*section five-Contact Info*/
+
+div#section5{
+    padding-top: 125px;
+}
+div#title15{
+    text-align: center;
+    font-size: 2em;
+    color: black;
+}
